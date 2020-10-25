@@ -17,7 +17,7 @@ public class ArrayOutput {
             numbers[index] = input.nextInt();
         }
         for (int index = 0; index < numbers.length; index++){
-        System.out.println( p + numbers[index]);
+        System.out.println(p + numbers[index]);
         p = p + " ";
         }
 
